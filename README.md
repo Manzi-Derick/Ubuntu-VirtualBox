@@ -1,4 +1,4 @@
-# Ubuntu-VirtualBox
+ Ubuntu-VirtualBox
 Installing Ubuntu 22.04 LTS on VirtualBox
 
 Step 1: Install virtual box
@@ -44,6 +44,28 @@ After installation completed:
 2.	Ubuntu booted into the desktop environment.
 3.	The “Online Accounts” screen appeared and skip was selected.
 4.	Ubuntu 22.04 desktop loaded successfully.
+
+Concepts Learned:
+- Virtualization and how VirtualBox allows running an operating system inside another OS.
+- Difference between host machine and guest machine.
+- Importance of enabling CPU virtualization (VT-x) from BIOS.
+- How ISO files are used to install operating systems.
+- Basic Linux installation process.
+- Understanding LTS (Long Term Support) versions of Ubuntu.
+- Basic navigation of the Ubuntu desktop environment.
+
+  GitHub Repository Steps
+  1. A GitHub account was logged into.
+  2. A new public repository was created on GitHub.
+  3. A README.md file was added to the repository.
+  4. Installation steps and concepts learned were written in the README file.
+  5. A screenshots folder was created in the repository.
+  6. Screenshots showing the Ubuntu installation and VirtualBox setup were uploaded.
+  7. All changes were committed to the repository.
+  
+  Screenshots
+  Screenshots of the installation process are included in this repository.
+
 
  
 
